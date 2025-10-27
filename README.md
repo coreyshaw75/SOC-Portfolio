@@ -1,1 +1,1 @@
-# SOC-Portfolio
+Hi! My name is Corey and I am an IT professional transitioning into cybersecurity with a focus on SOC operations, incident response, and threat detection. This repository showcases my hands-on labs and projects as I build and document what I learn.# SOC-Portfolio
