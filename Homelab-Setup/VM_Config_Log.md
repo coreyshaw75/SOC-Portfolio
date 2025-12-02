@@ -31,9 +31,9 @@
 - Named system *WIN11-USER*
 - Confirmed VM got an IP from DHCP: SUCCESS
 - Connected VM to domain
-##Kali Linux VM
+## Kali Linux VM
 - Completed standard Kali Linux OS install
 - Ran all updated/upgrades
 - Confirmed VM got in IP from DHCP: SUCCESS
-##Misc
+## Misc
 - Confirmed all three VM networks settings were configured properly and all three systems could communicate appropriately
